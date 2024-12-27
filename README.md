@@ -2,7 +2,7 @@
 
 Proposta para uma tela 
 
-### Ferramentas
+### Tecnologias
 ![Static Badge](https://img.shields.io/badge/Android%20Studio-black?style=flat&logo=Android%20Studio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kotlin-black?style=flat&logo=Kotlin&logoColor=white)
 
